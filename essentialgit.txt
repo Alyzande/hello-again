@@ -1,0 +1,17 @@
+Allows you to collaborate, share code, safe place to save, and publish.  Can use the command line and there's a standalone client git desktop too
+
+When you are using git commands you are communicating with github server.  Alternative platforms but github is the most popular and well known. 
+
+
+
+Think of them like train tracks this is the main branch. It used to be called the master branch, so you might see it called that in some of the old slides.
+
+create repo. public. leave the .gitignore and license for now.
+See main branch, files, there's one file. readme.md. click to read it it appears here
+pull requests which we mentioned. github actions can automatically attach to hosting. so changes you make to main branch can go up online.
+projects has things like todo lists and track the progress of your tasks in the project
+wiki in case you need it, prob wont.
+security, can have a look through that. 
+insights - who's using it, what pull requests, clones etc. 
+settings last option - invite collaborators.  
+Can you all click that in your hello world and type in 'alyzande' and invite me so I can collaborate and do some pulls and look at your code
